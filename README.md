@@ -31,7 +31,7 @@ To run the Currency Converter App locally, follow these steps:
     ```bash
     npm run dev
     ```
-5. Open your browser and visit http://localhost:3000 to view the app.
+5. Open your browser and visit http://localhost:5173 to view the app.
 
 ## Usage
 - Select the currency you want to convert from and to.
