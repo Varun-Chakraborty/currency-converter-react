@@ -36,7 +36,6 @@ To run the Currency Converter App locally, follow these steps:
 ## Usage
 - Select the currency you want to convert from and to.
 - Enter the amount you want to convert.
-- Click the "Convert" button to see the converted amount.
 - Optionally, you can swap the currencies by clicking the "Swap" button.
 
 ## Credits
